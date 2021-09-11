@@ -1,0 +1,8 @@
+com\tvazteca\reactiveScheduler\models\repositories\ViewsRepository.class
+com\tvazteca\reactiveScheduler\ReactiveSchedulerApplication.class
+com\tvazteca\reactiveScheduler\models\Cuenta.class
+com\tvazteca\reactiveScheduler\models\documents\Producto.class
+com\tvazteca\reactiveScheduler\models\repositories\ProductoRepository.class
+com\tvazteca\reactiveScheduler\services\impl\MetricServiceImpl.class
+com\tvazteca\reactiveScheduler\models\documents\ViewsDocument.class
+com\tvazteca\reactiveScheduler\services\MetricService.class
